@@ -2,7 +2,7 @@
 - 👀 I’m interested in -> Programming
 - 🌱 I’m currently learning -> Coding (JavaScript)
 - 💞️ I’m looking to collaborate on -> Open Source Projects
-- 📫 How to reach me -> harshit.goyal1912@gmail.com
+- 📫 How to reach me -> harshit.goyal1913@gmail.com
 
 <!---
 harshitgoyal1913/harshitgoyal1913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
